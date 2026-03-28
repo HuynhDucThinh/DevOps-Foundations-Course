@@ -60,4 +60,3 @@ jobs:
     - name: Run tests
       run: pytest
 
-# Remember to remove the '#' to uncomment lines when filling in the placeholders
